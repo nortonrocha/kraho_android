@@ -6,3 +6,6 @@ gradlew
 gradlew.bat
 local.properties
 settings.gradle
+Kraho.iml
+.idea/
+kraho_android.iml

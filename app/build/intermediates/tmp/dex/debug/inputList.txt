@@ -1,0 +1,5 @@
+C:\Users\VictorBarbosa\AndroidStudioProjects\Kraho\app\build\intermediates\classes\debug
+C:\Users\VictorBarbosa\AndroidStudioProjects\Kraho\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-13a251532ca40a701a4b1ab07e193153787df9c0.jar
+C:\Users\VictorBarbosa\AndroidStudioProjects\Kraho\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-78ffe931ba2b9716bfb5ae259a4c9e121afca781.jar
+C:\Users\VictorBarbosa\AndroidStudioProjects\Kraho\app\build\intermediates\pre-dexed\debug\classes-2ca67b6fef05a7e9571adfe8091b808ed5e4f529.jar
+C:\Users\VictorBarbosa\AndroidStudioProjects\Kraho\app\build\intermediates\pre-dexed\debug\classes-a724fc5d3d592c0a92951a221450d5d0f2cf9084.jar
